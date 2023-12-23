@@ -8,7 +8,7 @@ Goal: create environment to fit our model using primitive math model.
 
 ### Introduction
 
-As for beginning, we should denote that will be a simplified math-model of wardrobe robot. 
+As for beginning, we should denote that will be a simplified math-model of wardrobe robot without complex parameters such as gravity and so on.
 
 ### Mechanics 
 First step: denote our agent - it's gonna be a hanger that moves forward/backwards, right/left. Thus, we have 4 possible actions to make for out agent.
